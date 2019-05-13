@@ -1,2 +1,2 @@
 # laravel
-Laravel CRUD Demo
+Laravel 5.8 CRUD Demo
